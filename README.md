@@ -1,8 +1,8 @@
-#🔐 Gerador de Senha
+# 🔐 Gerador de Senha
 
 Este é um projeto simples de gerador de senhas aleatórias desenvolvido com HTML, CSS e JavaScript.
 
-##🚀 Funcionalidades
+## 🚀 Funcionalidades
 
 Gerar senhas seguras
 
@@ -12,7 +12,7 @@ Copiar senha com um clique
 
 Interface simples e rápida
 
-##🛠️ Tecnologias usadas
+## 🛠️ Tecnologias usadas
 
 HTML
 
